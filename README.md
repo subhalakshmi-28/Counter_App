@@ -4,7 +4,7 @@ A simple **Counter App** built using **HTML, CSS, and JavaScript**. This project
 
 ## 🚀 Live Demo
 
-**Demo Link:** https://your-demo-link.com
+**Demo Link:** https://subhalakshmi-28.github.io/Counter_App/
 
 ## ✨ Features
 
